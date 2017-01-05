@@ -1,0 +1,16 @@
+{
+  "name": "voxmedia",
+  "version": "0.0.1",
+  "description": "Directorio Comercial de Vox Media",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-native-web": "0.0.61"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Diaz Gaitan",
+  "license": "ISC"
+}
