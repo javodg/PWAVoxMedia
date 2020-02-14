@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombreEscuela": "jardin de ninos Fernando Montes de Oca",
+    "giros": ["maternal", "preescolar"],
+    "ubicacion": {
+      "direccion": "Paseo del Bosque Mz 35 Lt 14",
+      "Cordenadas": {
+        "lat": 19.657459,
+        "long": -99.027109
+      }
+    },
+    "contacto": { "telefonos": [{ "tipo": "laboral", "numero": "59385516" }] },
+    "sociales": {
+      "facebook": "montessorifmo"
+    }
+  }
+]
